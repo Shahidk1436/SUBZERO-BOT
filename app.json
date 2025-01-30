@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+      "description": "SUBZERO-MD~KnBDXKbS#3cUfNFGVno-0Kf0_IecDrcmCS_LPNvlb_du-ElkZyCA",
       "required": true,
       "value": ""
     },  
@@ -80,13 +80,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐅𝐫𝐚𝐧𝐤"
+      "value": "𝐌 Shahid"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263719XXXX"
+      "value": "923318794921"
 
     }, 
 
@@ -100,7 +100,7 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
       
     },
     
